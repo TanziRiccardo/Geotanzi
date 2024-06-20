@@ -1,0 +1,1 @@
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=12.210144996643066%2C43.443852413220725%2C12.2667932510376%2C43.473009855996075&amp;layer=mapnik&amp;marker=43.458432892148316%2C12.238469123840332" style="border: 1px solid black"></iframe><br/><small></small>
